@@ -70,6 +70,7 @@ public class Matrix_Mul {
         }
 
         System.out.println();
+        //product matrix
         for (int i = 0; i <product.length ; i++) {
             for (int j = 0; j < product[0].length ; j++) {
                 System.out.print(product[i][j]+" ");

@@ -1,7 +1,7 @@
 package Day10;
 
 public class Matrix_Add {
-    // add two matrices program
+    // add two matrice program
     public static void main(String[] args) {
         int a [][] ={{1,3,4},{2,4,3},{3,4,5}};
         int b [][] = {{1,3,4},{2,4,3},{3,4,5}};

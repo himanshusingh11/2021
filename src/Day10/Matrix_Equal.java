@@ -40,7 +40,7 @@ public class Matrix_Equal {
              else
                  System.out.println("Matrices are not equal");
          }
-
+  //it will print if both matrices are equal or not
 
 
     }
