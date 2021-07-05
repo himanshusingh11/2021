@@ -28,3 +28,7 @@ public class ValidParenthesis {
 
     }
 }
+
+
+// time complexity O(n)
+// space complexity O(n)
